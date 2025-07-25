@@ -9,3 +9,6 @@
 
 ## output
 
+
+![Image](https://github.com/user-attachments/assets/cf522bed-e2ef-4fe7-b8d9-5a8403c28d5e)
+
