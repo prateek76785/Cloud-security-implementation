@@ -1,1 +1,7 @@
 # Cloud-security-implementation
+**company** : CODTECH IT SOLUTIONS
+**NAME** : PRATEEK
+**INTERN ID** : CT04DG3026
+**DOMAIN** : CLOUD COMPUTING
+**DURATION** : 4 WEEKS
+**MENTOR** : NEELAM SANTHOSH
